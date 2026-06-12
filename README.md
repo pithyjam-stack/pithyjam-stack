@@ -1,6 +1,6 @@
 ## 👋 Welcome to My GitHub Profile
 
-## About Me
+## ✨ About Me
 Hello! I'm a recent Computer Engineering graduate and aspiring developer learning about new technologies, building cool projects, and creating games.
 
 ---
