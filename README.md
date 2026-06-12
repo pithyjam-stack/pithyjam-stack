@@ -5,11 +5,11 @@
 
 ## ✨ About Me
 <p align="center">
-  <b>Hello! I'm Fred Godsey, a recent Computer Engineering graduate from California State University, San Bernardino. 
+  <b>Hello! I'm Fred Godsey, a recent Computer Engineering graduate from California State University, San Bernardino.</b> 
     
-    I enjoy building software that combines creativity with technical problem-solving. My recent work includes developing games in Godot, creating backend services with FastAPI, and expanding my knowledge of Linux, SQL, Go, Docker, and software architecture through independent study.
+  <b>I enjoy building software that combines creativity with technical problem-solving. My recent work includes developing games in Godot, creating backend services with FastAPI, and expanding my knowledge of Linux, SQL, Go, Docker, and software architecture through independent study.</b>
     
-    When I'm away from the keyboard, you'll usually find me at the gym, riding my motorcycle, or playing story-driven games like God of War, Spider-Man, and Vampyr.</b>
+  <b>When I'm away from the keyboard, you'll usually find me at the gym, riding my motorcycle, or playing story-driven games like God of War, Spider-Man, and Vampyr.</b>
 </p> 
 
 ---
