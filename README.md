@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub Profile
 
-<!--
-**pithyjam-stack/pithyjam-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I'm a recent Computer Engineering graduate and aspiring developer learning about new technologies, building cool projects, and creating games.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+[**The Blinkless Man**](https://gdcr-studios.itch.io/the-blinkless-man)
+My very first game developed in the Godot Game Engine, with models I made in Blender, music I made in FL Studio, and copyright-free sounds edited in Audacity. 
+
+**Zeppelins & Zombies**
+A fun, collaborative game currently being developed in Godot Game Engine, combining a variety of concepts into a unique gameplay experience. 
+
+**Asset Catalogue API**
+A Backend side project to help improve my skills with APIs, SQL, and databases. 
+
+---
+
+## 📫 Contact
+You can reach me on [LinkedIn](https://www.linkedin.com/in/fred-godsey/) or [My Games](https://gdcr-studios.itch.io/) on Itch.io.
